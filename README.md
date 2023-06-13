@@ -60,9 +60,9 @@ Click here to Get the Result of the Learner
 
 ![Screenshot (37)](https://github.com/BrindhaY/Ex06_Web-Design/assets/127816765/08f4d67c-353a-4bc9-8d5e-046711d4bffd)
 ![Screenshot (38)](https://github.com/BrindhaY/Ex06_Web-Design/assets/127816765/6b6fb80f-40db-4d11-90da-94e66d20e4f6)
-![Screenshot (39)](https://github.com/BrindhaY/Ex06_Web-Design/assets/127816765/630eef98-6602-43ec-8214-07747d8d3e18)
-![Screenshot (40)](https://github.com/BrindhaY/Ex06_Web-Design/assets/127816765/78863659-bac5-4312-b085-20d7f6243d32)
-![Screenshot (41)](https://github.com/BrindhaY/Ex06_Web-Design/assets/127816765/8b2a51b5-570d-409f-9e50-f9d444b9c2a0)
+![Screenshot (39)](https://github.com/BrindhaY/Ex06_Web-Design/assets/127816765/4caea696-69ff-4157-9e6c-b6f1067cf80f)
+![Screenshot (40)](https://github.com/BrindhaY/Ex06_Web-Design/assets/127816765/3e66cea0-0b07-4a52-8cd5-a52a855f0c8d)
+![Screenshot (41)](https://github.com/BrindhaY/Ex06_Web-Design/assets/127816765/3f4f9033-381a-41a0-bd30-30cdf1faa316)
 
 ## RESULT
   Student result using JavaScript is created successfully.
