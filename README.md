@@ -61,6 +61,7 @@ Click here to Get the Result of the Learner
 </h1>
 </body>
 </html>
+
 ## OUTPUT
 ![Screenshot (37)](https://github.com/BrindhaY/Ex06_Web-Design/assets/127816765/08f4d67c-353a-4bc9-8d5e-046711d4bffd)
 ![Screenshot (38)](https://github.com/BrindhaY/Ex06_Web-Design/assets/127816765/6b6fb80f-40db-4d11-90da-94e66d20e4f6)
